@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Aline Lopes! 👩‍💻✨</h1>
+<h1 align="center">Olá, eu sou a Aline Lopes! </h1>
 
 <p align="center">
 Seja bem-vindo(a) ao meu GitHub! Aqui compartilho meus projetos, aprendizados e experiências na jornada como desenvolvedora júnior.
@@ -24,7 +24,7 @@ Seja bem-vindo(a) ao meu GitHub! Aqui compartilho meus projetos, aprendizados e 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -36,7 +36,7 @@ Seja bem-vindo(a) ao meu GitHub! Aqui compartilho meus projetos, aprendizados e 
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aline551&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aline551&layout=compact&theme=radical" width="48%" />
 </p>
@@ -45,8 +45,14 @@ Seja bem-vindo(a) ao meu GitHub! Aqui compartilho meus projetos, aprendizados e 
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-lopes/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aline-lopes/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
