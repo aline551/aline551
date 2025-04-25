@@ -16,7 +16,7 @@ Seja bem-vindo(a) ao meu GitHub! Aqui compartilho meus projetos, aprendizados e 
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 - 💡 Explorando o universo da programação com foco em desenvolvimento web  
-- 🌱 Atualmente estudando: JavaScript, HTML, CSS, Python, SQL, Lógica de Programação e Cibersegurança  
+- 🌱 Atualmente estudando: JavaScript, HTML, CSS, TypeScript, Vue.js ,React.js,Next.js, SASS/SCSS, Jest, Git e GitHub e Fundamentos de lógica de programação
 - 💼 Em busca da primeira oportunidade como desenvolvedora  
 - 🎨 Apaixonada por tecnologia, design e soluções criativas que fazem a diferença
 
