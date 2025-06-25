@@ -46,7 +46,7 @@ Seja bem-vindo(a) ao meu GitHub! Aqui compartilho meus projetos, aprendizados e 
 ## 📫 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aline-lopes/">
+  <a href="https://www.linkedin.com/in/aline-mendon%C3%A7a-lopes-a59407291/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:seuemail@gmail.com">
