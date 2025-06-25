@@ -4,8 +4,6 @@
 <p align="center">
 Seja bem-vindo(a) ao meu GitHub! Aqui compartilho meus projetos, aprendizados e experiências na jornada como desenvolvedora júnior.
 </p>
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-ff69b4" alt="Status do Perfil" />
   <img src="https://img.shields.io/github/followers/aline551?style=social" alt="Seguidores no GitHub" />
