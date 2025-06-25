@@ -49,16 +49,16 @@ Seja bem-vindo(a) ao meu GitHub! Aqui compartilho meus projetos, aprendizados e 
   <a href="https://www.linkedin.com/in/aline-mendon%C3%A7a-lopes-a59407291/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="lopes.mendonca.aline@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.facebook.com/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://www.facebook.com/share/16upY5hv2b/?mibextid=wwXIfr" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://www.instagram.com/_ali_lopess?igsh=MWQ3b2hmams1MDhtZg%3D%3D&utm_source=qr" alt="Instagram" />
   </a>
-  <a href="https://wa.me/55SEUNUMERO" target="_blank">
+  <a href="https://wa.me/5551996725721" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
