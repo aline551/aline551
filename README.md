@@ -1,15 +1,18 @@
+<!-- Nome animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Olá%2C+sou+Aline+Lopes!+👩‍💻;Desenvolvedora+Frontend+Júnior" alt="Typing SVG" />
+</p>
 
-<h1 align="center">Olá, sou a Aline Lopes! </h1>
 
 <p align="center">
 Seja bem-vindo(a) ao meu GitHub! Aqui compartilho meus projetos, aprendizados e experiências na jornada como desenvolvedora júnior.
 </p>
+
+
+
 <p align="center">
   🚧 Em construção | Sempre aprendendo!<br>
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-ff69b4" />
 </p>
-
----
 
 ## 👩‍💻 Sobre mim
 
