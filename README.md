@@ -5,9 +5,8 @@
 Seja bem-vindo(a) ao meu GitHub! Aqui compartilho meus projetos, aprendizados e experiências na jornada como desenvolvedora júnior.
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-ff69b4" alt="Status do Perfil" />
-  <img src="https://img.shields.io/github/followers/aline551?style=social" alt="Seguidores no GitHub" />
-  <img src="https://img.shields.io/github/languages/top/aline551/portifolio_aline_lopes.io?color=blue" alt="Linguagem Principal" />
+  🚧 Em construção | Sempre aprendendo!<br>
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-ff69b4" />
 </p>
 
 ---
